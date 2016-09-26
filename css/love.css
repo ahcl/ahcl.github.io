@@ -1,0 +1,23 @@
+/* 爱心运动 */
+
+.img_love{
+	  width:20%;
+	  -webkit-animation: bounce 1s infinite alternate;
+      animation: bounce 1s infinite alternate;
+}
+
+@-webkit-keyframes bounce {
+ 0%   { left:0px; top:0px;}
+25%  {width:5%;left:200px; top:10px;}
+50%  {width:15%; left:100px; top:20px;}
+75%  {width:20%; left:150px; top:50px;}
+100% {width:25%; left:120px; top:70px;}
+}
+
+@keyframes bounce {
+ 0%   { left:0px; top:0px;}
+25%  {width:5%;left:200px; top:10px;}
+50%  {width:15%; left:100px; top:20px;}
+75%  {width:20%; left:150px; top:50px;}
+100% {width:25%; left:120px; top:70px;}
+}
