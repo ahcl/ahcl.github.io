@@ -2,7 +2,7 @@
 
 
 .img_love{
-	width: 20%;
+    text-align: center;
 	  -webkit-animation: bounce 1s cubic-bezier(.68, .06, .68, .42) infinite alternate;
       animation: bounce 1s cubic-bezier(.68, .06, .68, .42) infinite alternate;
 }
